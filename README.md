@@ -46,6 +46,7 @@
 
 * Provinsi Jawa Timur
   * Kota Surabaya
+  * Kota Mojokerto: [disini](http://covid19.mojokertokota.go.id/)
 
 ## PULAU BALI
 * Provinsi Bali
@@ -115,3 +116,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+ *Putu Aditya[disini](https://www.linkedin.com/in/putu-aditya-34ba5b14b)
