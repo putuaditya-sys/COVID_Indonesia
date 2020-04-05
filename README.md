@@ -46,6 +46,7 @@
 
 * Provinsi Jawa Timur
   * Kota Surabaya
+  * Kota Mojokerto: [disini] (http://covid19.mojokertokota.go.id/)
 
 ## PULAU BALI
 * Provinsi Bali
